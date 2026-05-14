@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/estrutura de dados/Atribuicoes/Atribuicoes.iml" filepath="$PROJECT_DIR$/estrutura de dados/Atribuicoes/Atribuicoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/estrutura de dados/Condicionais/Condicionais.iml" filepath="$PROJECT_DIR$/estrutura de dados/Condicionais/Condicionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Backend.iml" filepath="$PROJECT_DIR$/.idea/Java-Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura de dados/Repeticoes/Repeticoes.iml" filepath="$PROJECT_DIR$/estrutura de dados/Repeticoes/Repeticoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/estrutura de dados/estrutura de dados.iml" filepath="$PROJECT_DIR$/estrutura de dados/estrutura de dados.iml" />
     </modules>
   </component>
