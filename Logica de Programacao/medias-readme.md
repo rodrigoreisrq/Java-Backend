@@ -34,6 +34,7 @@ Números:
 
 Cálculo:
 
+
 (8 + 9 + 7) / 3
 
 Resultado:
