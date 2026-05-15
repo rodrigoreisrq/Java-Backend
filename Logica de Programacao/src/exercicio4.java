@@ -15,6 +15,7 @@ public class exercicio4 {
         double somaSalarial = salarioFuncionario1 + salarioFuncionario2 + salarioFuncionario3;
         double mediaSalarial = somaSalarial / 4;
 
+        
         System.out.println("A média salarial da empresa é: " + mediaSalarial);
 
     }
