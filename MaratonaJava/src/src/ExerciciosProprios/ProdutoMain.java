@@ -17,17 +17,22 @@ public class ProdutoMain {
         System.out.println("Valor total: "+produto1.getValorTotal());
 
         Produto produto2 = new Produto();
+        
         produto2.setNome("Iphone 17");
         produto2.setQuantidade(2);
         produto2.setPreco(7500);
+        
         produto2.adicionarEstoque();
+        
         System.out.println("Produto: "+produto2.getNome());
         System.out.println("Preço: "+produto2.getPreco());
         System.out.println("Quantidade: "+produto2.getQuantidade());
+        
         produto2.valorTotalEstoque();
         System.out.println("Valor total: "+produto2.getValorTotal());
 
         Produto produto3 = new Produto();
+        
         produto3.setNome("");
         produto3.setQuantidade(0);
         produto3.setPreco(0);
