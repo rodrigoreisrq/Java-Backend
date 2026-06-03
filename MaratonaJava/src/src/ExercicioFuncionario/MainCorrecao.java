@@ -5,9 +5,9 @@ public class MainCorrecao {
 
         FuncionarioCorrecao funcionario = new FuncionarioCorrecao();
 
-        funcionario.nome = "Rodrigo";
-        funcionario.idade = 18;
-        funcionario.salarios = new double[]{2000, 3500, 3000};
+        funcionario.setNome("Rodrigo");
+        funcionario.setIdade(18);
+        funcionario.setSalarios(new double[]{2000, 3500, 3000});
         funcionario.imprime();
 
     }

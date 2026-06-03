@@ -30,7 +30,10 @@ public class ContaBancaria {
         double saque = sc.nextDouble();
         if (saque == 0) {
             System.out.println("Não é possível sacar um valor inválido");
-        } else {
+        }
+
+
+        else {
             saldo = saldo - saque;
             System.out.println("Saque realizado com sucesso!");
         }
