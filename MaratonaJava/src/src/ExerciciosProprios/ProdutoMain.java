@@ -16,7 +16,6 @@ public class ProdutoMain {
         produto1.valorTotalEstoque();
         System.out.println("Valor total: "+produto1.getValorTotal());
 
-
         Produto produto2 = new Produto();
         produto2.setNome("Iphone 17");
         produto2.setQuantidade(2);
