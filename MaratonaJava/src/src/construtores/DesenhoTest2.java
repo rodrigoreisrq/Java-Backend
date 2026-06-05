@@ -1,9 +1,11 @@
-package sobrecargademetodos;
+package construtores;
 
-public class DesenhoTest {
+import sobrecargademetodos.Desenho;
+
+public class DesenhoTest2 {
     public static void main(String[] args) {
-        Desenho desenho = new Desenho();
-        desenho.init("Clarencio o Otimista", "Aventura", 100, "aventura");
+        Desenho2 desenho = new Desenho2("Zap", "mensagem", 3, "familia", "Disney");
+        Desenho2 desenho2 = new Desenho2(); // objeto vazio
         desenho.imprime();
     }
 }
