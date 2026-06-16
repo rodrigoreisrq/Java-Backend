@@ -5,39 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9d0019d-c7b7-4e1a-b2cf-35e553a88e09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/ExercicioFuncionario/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/ExercicioFuncionario/FuncionarioCorrecao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/ExercicioFuncionario/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/ExercicioFuncionario/MainCorrecao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/ExerciciosProprios/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/ExerciciosProprios/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/ExerciciosProprios/Retangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/ExerciciosProprios/RetanguloMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/POO/classes/exerciciocarros/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/POO/classes/exerciciocarros/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/calculadora/metodos/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/calculadora/metodos/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/calculadora/metodos/ImpirmirEstudantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/calculadora/test/CalculadoraTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/calculadora/test/EstudanteTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/calculadora/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Maratona Java/src/src/calculadora/test/Teste2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos/Controle Financeiro/Controle Financeiro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/classes/Carteira.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/classes/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/classes/Despesa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/classes/Receita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/classes/Transacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DevDojo_Estudos" beforeDir="false" afterPath="$PROJECT_DIR$/../DevDojo_Estudos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPOO/src/src" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPOO/src/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Projetos/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projetos/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projetos/task-list/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projetos/task-list/src/Tasks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projetos/task-list/src/guardarVariaveis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projetos/task-list/src/instructions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projetos/task-list/src/tarefas.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projetos/task-list/task-list.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Projetos/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/Controle Financeiro/Controle Financeiro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/classes/Carteira.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/classes/Categoria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/classes/Despesa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/classes/MenuInicial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/classes/Receita.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/classes/Transacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/Controle Financeiro/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/out/production/Controle Financeiro/classes/Carteira.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Projetos/out/production/Controle Financeiro/classes/Carteira.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/out/production/Controle Financeiro/classes/Transacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/out/production/Controle Financeiro/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Projetos/out/production/Controle Financeiro/main/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,20 +50,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/JavaDeveloper/JavaSpring",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/JavaDeveloper/JavaSpring&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JavaSpring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JavaSpring" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
